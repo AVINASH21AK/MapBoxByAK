@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapBox</string>
+    <string name="googleMapKey">AIzaSyDRIYeF1GmtUSygkQsjhstbyfBLSMY5wS8</string>
+    <string name="mapbox_AccessToken">pk.eyJ1IjoiYWxleGFuZGFyMjIxIiwiYSI6ImNqMnI5ZXdiazAwNWwyd3FlNXJoYTlvZjMifQ.H5cAEx3zEkuwgubIkY_lkA</string>
+
+    <string name="access_token" translatable="false">pk.eyJ1IjoiYWxleGFuZGFyMjIxIiwiYSI6ImNqMnI5ZXdiazAwNWwyd3FlNXJoYTlvZjMifQ.H5cAEx3zEkuwgubIkY_lkA</string>
+    <string name="user_location_permission_explanation">This app needs location permissions in order to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+
+</resources>
